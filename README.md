@@ -1,16 +1,31 @@
 # Titan Battery Roller
-===
 
-## First Edition
----
-The titan battery roller accommodates 8 FRC 12V batteries and 2 of the Dual Pro RS3 Battery Chargers along with an extension cord.
+The Titan Battery Roller is a mobile storage cart for an FRC battery setup. It holds:
 
-The design uses 3/4" thick plywood and 2x4 for spacers. It also uses 800lb load bearing wheels and 18gauge nails.
+- 8 FRC 12 V batteries
+- 2 Dual Pro RS3 battery chargers
+- An extension cord
 
-It can be stored in 2 positions Vertical And Horizontal and is easy to move. 
+The cart can be stored vertically or horizontally and uses load-bearing wheels for easier movement.
 
-All parts can be cut from one sheet of 4'x4'x3/4" plywood.
+## Design
 
----
+The first edition is built primarily from:
 
-This was designed for FRC Team 5719 through the Stardance YSWS at HackClub.
+- 3/4 in spruce plywood
+- 2x4 SPF lumber for spacers
+- 800 lb load-bearing wheels
+- Steel rod hardware and caps
+- 1-1/2 in finishing nails
+
+The plywood and lumber dimensions in the current bill of materials should be treated as the source of truth for material planning. Confirm the cut layout before purchasing or cutting stock.
+
+## Repository Contents
+
+- `Cart Parts/` - Individual SolidWorks part files and the roller STEP model
+- `BOM.csv` - Bill of materials, quantities, supplier links, and cost estimates
+- `README.md` - Project overview and documentation
+
+## Background
+
+This cart was designed for FRC Team 5719 through the Stardance YSWS at HackClub.
